@@ -11,7 +11,7 @@ $buku = query("SELECT * FROM buku");
 </head>
 <body>
 
-<h1>Daftar Buku</h1>
+<h1>Daftar Buku Novel</h1>
 
 <a href="tambah.php">Tambah Data Buku</a>
 
