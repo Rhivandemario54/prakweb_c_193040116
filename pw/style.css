@@ -1,0 +1,18 @@
+h1{
+	font-family: sans serif;
+	text-align: center;
+}
+th{
+	background-color : blue;
+	font-family : sans serif;
+	text-align : Center;
+}
+td {
+	background-color: aqua;
+	font-family: sans serif;
+	text-align: Center;
+}
+a {
+	font-family: sans serif;
+	text-align: center;
+}

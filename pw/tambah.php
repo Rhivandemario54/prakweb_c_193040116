@@ -27,6 +27,7 @@ if ( isset($_POST["submit"]) ){
 <html>
 <head>
 	<title>Tambah Data Buku</title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
 </head>
 <body>
 	<h1>Tambah Data Mahasiswa</h1>

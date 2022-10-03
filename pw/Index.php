@@ -8,6 +8,7 @@ $buku = query("SELECT * FROM buku");
 <html>
 <head>
 	<title>Halaman Admin</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
