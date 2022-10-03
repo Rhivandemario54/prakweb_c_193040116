@@ -19,7 +19,6 @@ $buku = query("SELECT * FROM buku");
 <br></br>
 <table border="1" cellpadding="10" cellspacing="0">
 
-
 	<tr>
 		<th>Id_buku</th>
 		<th>Aksi</th>

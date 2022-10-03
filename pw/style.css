@@ -8,11 +8,7 @@ th{
 	text-align : Center;
 }
 td {
-	background-color: aqua;
+	background-color: gray;
 	font-family: sans serif;
 	text-align: Center;
-}
-a {
-	font-family: sans serif;
-	text-align: center;
 }
